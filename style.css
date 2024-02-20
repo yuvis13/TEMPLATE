@@ -1,0 +1,215 @@
+.head{
+    text-align: center;
+    color: red; 
+    margin-bottom: 50px;
+    font-size: x-large;
+    
+}
+h1 {
+    font-size: 35px; 
+    font-family: "Times New Roman", serif;
+  }
+
+  h2 {
+    font-size: 28px;
+    font-family: "Times New Roman", serif;
+  }
+
+  h3 {
+    font-size: 25px; 
+    font-family: "Times New Roman", serif;
+  }
+  p {
+    font-size: 20px; 
+    font-family: "Arial", sans-serif;
+  }
+  i{
+    font-size: 45px;
+  }
+
+body {
+   background-color: rgb(90, 85, 85);
+    color: white; 
+    margin: 0;
+    padding:0;
+   
+}
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+.yellow1 {
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.blue1 {
+    background-color: rgb(77, 159, 192);
+    width: 50%;
+    margin: 1px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+
+.container2{
+    display: flex;
+    background-color: red;
+    width: 100%;
+    color: white;
+    font-size: 15px;    
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.double{
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+}
+
+.icon1{
+    display: flex;
+    font-size: 30px;
+    gap: 70px;
+
+}
+.container3{
+    display: flex;
+    background-color:  rgb(77, 159, 192);
+    width: 100%;
+    color: white;
+    font-size: 15px;    
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+}
+.bll{
+    display: flex;
+    font-size: 30px;
+    
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    width: 100%
+    
+}
+.red2 {
+    background-color: red;
+    width: 50%;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.yellow2 {
+    background-color: orange;
+    width: 50%;
+    margin: 1px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.container5{
+    display: flex;
+    background-color:  rgb(77, 159, 192);
+    width: 100%;
+    color: white;
+    font-size: 15px;    
+    flex-wrap: wrap;
+    gap: 700px;
+    flex-direction: row;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+
+.double2{
+    gap: 720px;
+    display: flex;
+    flex-direction: row;
+}
+.tv{
+    display: flex;
+    font-size: 60px;
+}
+.container6{
+    display: flex;
+    background-color:orange;
+    width: 100%;
+    color: white;
+    gap: 500px;
+    font-size: 15px;    
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.double3{
+    gap: 800px;
+    display: flex;
+}
+.icon3{
+    display: flex;
+    font-size: 60px;
+    gap: 100px;
+}
+.container7{
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+.blue4 {
+    background-color: rgb(77, 159, 192);
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
+.red3 {
+    background-color: red;
+    width: 50%;
+    margin: 1px;
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    margin-bottom: 20px;
+    padding: 40px;
+    line-height: 1.2;
+}
